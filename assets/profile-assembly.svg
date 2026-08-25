@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Revati G Chavadal — animated 3D profile assembly</title>
+<desc id="desc">A dark minimalist 3D-inspired profile animation with floating data badges assembling into a central profile badge.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".5" stop-color="#0b1220"/><stop offset="1" stop-color="#020617"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#e5f4ff"/><stop offset=".45" stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <linearGradient id="cyan"><stop stop-color="#dff7ff"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+  <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-opacity=".65"/></filter>
+  <radialGradient id="spot"><stop stop-color="#38bdf8" stop-opacity=".3"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#93c5fd" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="520" rx="28" fill="url(#grid)"/>
+<ellipse cx="600" cy="410" rx="420" ry="80" fill="#38bdf8" opacity=".08" filter="url(#glow)"/>
+<circle cx="600" cy="260" r="250" fill="url(#spot)" filter="url(#glow)"/>
+
+<!-- floating particles -->
+<g fill="#dbeafe">
+ <circle cx="115" cy="110" r="2"><animate attributeName="cy" values="110;80;110" dur="3s" repeatCount="indefinite"/></circle>
+ <circle cx="1030" cy="90" r="2"><animate attributeName="cy" values="90;125;90" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="950" cy="390" r="2"><animate attributeName="cx" values="950;980;950" dur="3.4s" repeatCount="indefinite"/></circle>
+ <circle cx="190" cy="390" r="2"><animate attributeName="cx" values="190;165;190" dur="3.8s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- central platform -->
+<g filter="url(#shadow)">
+ <ellipse cx="600" cy="408" rx="255" ry="38" fill="#020617" stroke="#334155"/>
+ <ellipse cx="600" cy="397" rx="230" ry="26" fill="#0f172a" stroke="url(#edge)" stroke-width="2"/>
+ <ellipse cx="600" cy="390" rx="185" ry="14" fill="#38bdf8" opacity=".12"/>
+</g>
+
+<!-- assembling badges -->
+<g font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="middle">
+ <g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.72;1" dur="8s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="-300,-120;0,0;0,0;-300,-120" keyTimes="0;.18;.72;1" dur="8s" repeatCount="indefinite"/>
+  <rect x="505" y="205" width="190" height="62" rx="16" fill="#0f172a" stroke="url(#edge)"/>
+  <text x="600" y="243" fill="#e0f2fe">PYTHON • AI / ML</text>
+ </g>
+ <g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.18;.72;1" dur="8s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="300,-100;0,0;0,0;300,-100" keyTimes="0;.26;.72;1" dur="8s" repeatCount="indefinite"/>
+  <rect x="505" y="275" width="190" height="62" rx="16" fill="#0f172a" stroke="url(#cyan)"/>
+  <text x="600" y="313" fill="#cffafe">FASTAPI • DATA</text>
+ </g>
+ <g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.28;.72;1" dur="8s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="-260,150;0,0;0,0;-260,150" keyTimes="0;.34;.72;1" dur="8s" repeatCount="indefinite"/>
+  <rect x="505" y="345" width="190" height="62" rx="16" fill="#0f172a" stroke="#93c5fd"/>
+  <text x="600" y="383" fill="#dbeafe">GITHUB • BUILD</text>
+ </g>
+</g>
+
+<!-- central profile badge -->
+<g>
+ <animateTransform attributeName="transform" type="translate" values="0,18;0,0;0,0;0,18" keyTimes="0;.22;.8;1" dur="8s" repeatCount="indefinite"/>
+ <animate attributeName="opacity" values=".1;1;1;.1" keyTimes="0;.22;.8;1" dur="8s" repeatCount="indefinite"/>
+ <rect x="330" y="105" width="540" height="285" rx="30" fill="#0b1220" stroke="url(#edge)" stroke-width="2" filter="url(#shadow)"/>
+ <rect x="350" y="125" width="500" height="245" rx="24" fill="#020617" stroke="#1e3a5f"/>
+ <circle cx="600" cy="195" r="55" fill="#0f172a" stroke="url(#cyan)" stroke-width="3"/>
+ <circle cx="600" cy="195" r="42" fill="#111827" stroke="#475569"/>
+ <path d="M570 205 Q600 170 630 205" fill="none" stroke="#93c5fd" stroke-width="4" stroke-linecap="round"/>
+ <circle cx="582" cy="187" r="5" fill="#e0f2fe"/><circle cx="618" cy="187" r="5" fill="#e0f2fe"/>
+ <text x="600" y="280" fill="#f8fafc" font-size="27" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">Revati G Chavadal</text>
+ <text x="600" y="311" fill="#67e8f9" font-size="16" text-anchor="middle" font-family="Arial, sans-serif">AI / ML STUDENT • DEVELOPER</text>
+ <line x1="470" y1="330" x2="730" y2="330" stroke="#1e40af"/>
+ <text x="600" y="354" fill="#94a3b8" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="2">BUILD • LEARN • DEPLOY</text>
+</g>
+
+<!-- rotating rings -->
+<g fill="none" stroke="url(#edge)" opacity=".65">
+ <ellipse cx="600" cy="250" rx="350" ry="145" stroke-width="1.5" stroke-dasharray="10 14">
+  <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="18s" repeatCount="indefinite"/>
+ </ellipse>
+ <ellipse cx="600" cy="250" rx="310" ry="125" stroke-width="1" stroke-dasharray="3 13">
+  <animateTransform attributeName="transform" type="rotate" from="360 600 250" to="0 600 250" dur="12s" repeatCount="indefinite"/>
+ </ellipse>
+</g>
+
+<text x="600" y="475" fill="#64748b" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" letter-spacing="4">PROFILE SYSTEM • ONLINE</text>
+</svg>
