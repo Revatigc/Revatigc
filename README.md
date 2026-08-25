@@ -1,113 +1,140 @@
-<div align="center">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="45%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5D0FE"/>
+      <stop offset="50%" stop-color="#E9D5FF"/>
+      <stop offset="100%" stop-color="#BAE6FD"/>
+    </linearGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
 
-<img src="./assets/anime-banner.svg" alt="Revati G Chavadal — AI/ML Developer" width="100%" />
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
 
-<br>
+  <!-- soft ambient glow, pulsing -->
+  <circle cx="1000" cy="150" r="220" fill="url(#glow)">
+    <animate attributeName="r" values="200;240;200" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="230" r="140" fill="url(#glow)" opacity="0.5">
+    <animate attributeName="r" values="120;150;120" dur="5s" repeatCount="indefinite"/>
+  </circle>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Student+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Learning.+Building.+Improving.+%E2%9C%A8" alt="Typing SVG" />
+  <!-- scattered twinkling stars -->
+  <g fill="#F5D0FE">
+    <circle cx="80" cy="50" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="30" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="70" r="2.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="180" r="1.8"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="40" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="70" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="200" r="2.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="250" r="1.8"><animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
 
-</div>
+  <!-- rotating tech-ring emblem, right side -->
+  <g transform="translate(1000,150)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18s" repeatCount="indefinite"/>
+      <circle r="95" fill="none" stroke="url(#ringGrad)" stroke-width="2.5" stroke-dasharray="10 8" opacity="0.85"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="12s" repeatCount="indefinite"/>
+      <circle r="72" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3 6" opacity="0.7"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="26s" repeatCount="indefinite"/>
+      <circle r="115" fill="none" stroke="#EC4899" stroke-width="1" stroke-dasharray="1 12" opacity="0.6"/>
+    </g>
 
----
+    <!-- orbiting sparkle nodes -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8s" repeatCount="indefinite"/>
+      <circle cx="95" cy="0" r="4" fill="#F5D0FE"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="180 0 0" to="540 0 0" dur="8s" repeatCount="indefinite"/>
+      <circle cx="95" cy="0" r="4" fill="#38BDF8"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="90 0 0" to="450 0 0" dur="14s" repeatCount="indefinite"/>
+      <circle cx="72" cy="0" r="3" fill="#EC4899"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="270 0 0" to="-90 0 0" dur="14s" repeatCount="indefinite"/>
+      <circle cx="72" cy="0" r="3" fill="#A855F7"/>
+    </g>
 
-## 🌸 About Me
+    <!-- core AI glyph: neural node cluster -->
+    <g stroke="url(#ringGrad)" stroke-width="1.5" fill="none" opacity="0.9">
+      <line x1="0" y1="0" x2="-30" y2="-18"/>
+      <line x1="0" y1="0" x2="30" y2="-18"/>
+      <line x1="0" y1="0" x2="-30" y2="18"/>
+      <line x1="0" y1="0" x2="30" y2="18"/>
+      <line x1="0" y1="0" x2="0" y2="-34"/>
+    </g>
+    <circle r="10" fill="#0f0c29" stroke="url(#ringGrad)" stroke-width="2"/>
+    <circle cx="-30" cy="-18" r="4" fill="#38BDF8"/>
+    <circle cx="30" cy="-18" r="4" fill="#EC4899"/>
+    <circle cx="-30" cy="18" r="4" fill="#A855F7"/>
+    <circle cx="30" cy="18" r="4" fill="#F5D0FE"/>
+    <circle cx="0" cy="-34" r="4" fill="#38BDF8"/>
+    <circle r="4" fill="#F5D0FE">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-> **Hello! I'm Revati G Chavadal.**
->
-> 🎓 AI/ML student from India who enjoys building practical software and exploring intelligent systems.
+  <!-- falling sakura petals -->
+  <g fill="#F472B6" opacity="0.85">
+    <ellipse cx="0" cy="0" rx="6" ry="3.5">
+      <animateTransform attributeName="transform" type="translate" values="120,-20; 90,320" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="5" ry="3">
+      <animateTransform attributeName="transform" type="translate" values="260,-30; 300,330" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="4s" repeatCount="indefinite" additive="sum"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="6" ry="3.5">
+      <animateTransform attributeName="transform" type="translate" values="450,-25; 420,320" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="3.5s" repeatCount="indefinite" additive="sum"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="5" ry="3">
+      <animateTransform attributeName="transform" type="translate" values="30,-15; 60,310" dur="6.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </ellipse>
+  </g>
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python development
-- ⚡ FastAPI & REST APIs
-- 🌐 React & backend development
-- 📊 Data Analytics
-- ☁️ Docker & Cloud
+  <!-- name + role text -->
+  <text x="60" y="140" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="46" font-weight="700" fill="url(#textGrad)">
+    Revati G Chavadal
+  </text>
+  <text x="60" y="180" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="21" fill="#C4B5FD" letter-spacing="1.5">
+    AI / ML DEVELOPER &#183; PYTHON &#183; FASTAPI
+  </text>
 
----
+  <!-- animated underline accent -->
+  <rect x="60" y="196" width="0" height="4" rx="2" fill="url(#ringGrad)">
+    <animate attributeName="width" values="0;340;340" keyTimes="0;0.6;1" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
 
-## ⚔️ My Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nodejs,express,fastapi,docker,mongodb,mysql,aws,git,github&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-</p>
-
----
-
-## 🧠 GitHub Character Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revatigc&theme=tokyonight" width="95%" />
-</p>
-
----
-
-## 🔥 Daily Training — Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌌 Activity Timeline
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-## 🧊 3D Contribution World
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="95%" />
-</p>
-
----
-
-## 🛰️ Current Mission
-
-```text
-MISSION STATUS
-────────────────────────────────────────
-[✓] Learn advanced Machine Learning
-[✓] Build AI-powered applications
-[✓] Explore FastAPI and backend systems
-[→] Improve React + Cloud skills
-[→] Build more real-world AI projects
-────────────────────────────────────────
-STATUS: ONLINE • LEARNING • BUILDING
-```
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Revatigc">
-    <img src="https://img.shields.io/badge/GitHub-Revatigc-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:revatigc12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
-### 🌙 Thanks for visiting my little corner of GitHub!
-
-**✨ Build • Learn • Improve • Create ✨**
-
-</div>
+  <!-- tagline -->
+  <text x="60" y="235" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="15" fill="#93C5FD" opacity="0.9">
+    building real-world AI solutions, one commit at a time
+  </text>
+</svg>
