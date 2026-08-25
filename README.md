@@ -51,13 +51,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="175" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260825" height="175" alt="Live GitHub statistics" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="175" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260825" height="175" alt="Live top languages" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revatigc&theme=tokyonight" width="96%" alt="GitHub profile activity summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revatigc&theme=tokyonight&v=20260825" width="96%" alt="Live GitHub profile activity summary" />
 
 </div>
 
@@ -67,11 +67,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true&v=20260825" width="70%" alt="Live GitHub contribution streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true&v=20260825" width="96%" alt="Live GitHub contribution activity graph" />
 
 </div>
 
@@ -102,11 +102,11 @@
 <div align="center">
 
 <a href="https://github.com/Revatigc/smart-farming-ai-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=smart-farming-ai-platform&theme=tokyonight&hide_border=true" alt="Smart Farming AI Platform" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=smart-farming-ai-platform&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260825" alt="Smart Farming AI Platform" />
 </a>
 
 <a href="https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=-Banking-AI-automatic-fraud-detection-&theme=tokyonight&hide_border=true" alt="Banking AI Fraud Detection" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=-Banking-AI-automatic-fraud-detection-&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260825" alt="Banking AI Fraud Detection" />
 </a>
 
 </div>
