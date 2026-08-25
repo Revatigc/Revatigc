@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="./assets/anime-banner.svg" alt="Revati G Chavadal anime AI banner" width="100%" />
+<img src="./assets/anime-banner.svg" alt="Revati G Chavadal — anime inspired AI/ML developer profile" width="100%" />
 
-### ✦ AI/ML Student • Python Developer • Builder ✦
+# ✦ Revati G Chavadal ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=Turning+ideas+into+intelligent+solutions;Machine+Learning+%7C+Python+%7C+FastAPI;Data+%7C+Backend+%7C+Cloud;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat+%E2%9C%A8" alt="Typing animation" />
+### AI / ML Student · Python Developer · Backend Builder
+
+**Building intelligent solutions for real-world problems.**
+
+`AI/ML` · `Python` · `FastAPI` · `Data` · `Backend` · `Cloud`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Revatigc-111827?style=for-the-badge&logo=github)](https://github.com/Revatigc)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail)](mailto:revatigc12@gmail.com)
 
 </div>
 
@@ -13,23 +20,53 @@
 ## 🌸 01 — A Little About Me
 
 <div align="center">
-<img src="./assets/about-scene.svg" alt="Animated 3D inspired About Me scene" width="96%" />
+<img src="./assets/about-scene.svg" alt="Revati animated About Me scene" width="96%" />
 </div>
+
+> **Hello! I'm Revati.** 👋  
+> An AI/ML student from India who enjoys turning ideas into practical technology.
+
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🐍 Building with **Python**
+- ⚡ Working with **FastAPI, REST APIs and modern backend tools**
+- 📊 Interested in **Data Analytics, backend engineering and cloud**
+- 🚀 Learning, experimenting and shipping projects
 
 ---
 
 ## ⚔️ 02 — My Tech Arsenal
 
 <div align="center">
-<img src="./assets/tech-arsenal.svg" alt="Animated 3D inspired technology scene" width="96%" />
+<img src="./assets/tech-arsenal.svg" alt="Revati technology arsenal" width="96%" />
 </div>
+
+| Area | Technologies |
+|---|---|
+| 🧠 AI / ML | Machine Learning · Scikit-learn · Pandas · NumPy |
+| ⚡ Backend | FastAPI · REST APIs · Node.js · Express |
+| 📊 Data | SQL · MySQL · MongoDB · Data Analytics |
+| ☁️ Engineering | Docker · AWS · Git · GitHub |
+| 💻 Languages | Python · C · Java · JavaScript |
+| 🎨 Frontend | HTML · CSS · React |
 
 ---
 
 ## 🧠 03 — GitHub Intelligence
 
 <div align="center">
-<img src="./assets/github-intelligence.svg" alt="Animated GitHub intelligence scene" width="96%" />
+
+<a href="https://github.com/Revatigc">
+<img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/Revatigc">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revatigc&theme=tokyonight" width="96%" alt="GitHub profile activity summary" />
+
 </div>
 
 ---
@@ -37,7 +74,13 @@
 ## 🔥 04 — Training Arc
 
 <div align="center">
-<img src="./assets/training-arc.svg" alt="Animated contribution training arc" width="96%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Revatigc&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub contribution activity graph" />
+
 </div>
 
 ---
@@ -45,20 +88,44 @@
 ## 🎬 05 — Profile Assembly
 
 <div align="center">
-<img src="./assets/profile-assembly.svg" alt="Sequential cinematic profile assembly" width="96%" />
+<img src="./assets/profile-assembly.svg" alt="Sequential cinematic 3D-inspired Revati profile assembly" width="96%" />
 </div>
+
+**INITIALIZING → PROFILE → SKILLS → GITHUB DATA → ACTIVITY → STREAK → 3D ASSETS → MERGE → PROFILE ASSEMBLED**
 
 ---
 
 ## 🌱 06 — Currently Learning
 
 <div align="center">
-<img src="./assets/learning-arc.svg" alt="Animated currently learning scene" width="96%" />
+<img src="./assets/learning-arc.svg" alt="Revati current learning animation" width="96%" />
+</div>
+
+| 🧠 AI / ML | ⚡ Engineering | ☁️ Modern Stack |
+|---|---|---|
+| Advanced ML | FastAPI | Docker |
+| Model Building | REST APIs | Cloud |
+| Data Analytics | React | AWS |
+
+---
+
+## 🚀 07 — Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Revatigc/smart-farming-ai-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=smart-farming-ai-platform&theme=tokyonight&hide_border=true" alt="Smart Farming AI Platform" />
+</a>
+
+<a href="https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=-Banking-AI-automatic-fraud-detection-&theme=tokyonight&hide_border=true" alt="Banking AI Fraud Detection" />
+</a>
+
 </div>
 
 ---
 
-## 🌌 07 — Developer Philosophy
+## 🌌 08 — Developer Philosophy
 
 <div align="center">
 
@@ -66,23 +133,31 @@
 
 *I don't just want to use technology — I want to understand it, build with it, and make it useful.*
 
-`AI/ML`　`Python`　`Backend`　`Data`　`Cloud`　`Open Source`
+`BUILD` ✦ `LEARN` ✦ `DEPLOY` ✦ `IMPROVE`
 
 </div>
 
 ---
 
-## 📫 08 — Let's Connect
+## 📫 09 — Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Revatigc"><img src="https://img.shields.io/badge/GitHub-Revatigc-0f172a?style=for-the-badge&logo=github" /></a>
-<a href="mailto:revatigc12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Revatigc"><img src="https://img.shields.io/badge/GitHub-Revatigc-111827?style=for-the-badge&logo=github" /></a>
+<a href="mailto:revatigc12@gmail.com"><img src="https://img.shields.io/badge/Email-revatigc12%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
 ### ✨ Thanks for visiting ✨
 
 **Keep building. Keep learning. Keep creating. 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Revatigc&style=for-the-badge&color=7c3aed" alt="Profile views" />
 
 </div>
