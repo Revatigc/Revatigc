@@ -1,39 +1,46 @@
 <div align="center">
 
-# 👋 Hi, I'm Revati G Chavadal
+<img src="./assets/anime-banner.svg" alt="Revati G Chavadal — AI/ML Developer" width="100%" />
 
-### 🤖 AI/ML Student • Python Developer • Building Real-World AI Solutions
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Student+from+India;Python+%7C+Machine+Learning+%7C+FastAPI;Building+AI+for+Real-World+Problems;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Student+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Learning.+Building.+Improving.+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-- 🎓 AI/ML student from India
-- 🤖 Focused on Artificial Intelligence and Machine Learning
-- 🐍 Building projects with Python
-- ⚡ Learning FastAPI, React, Docker and Cloud
-- 📊 Interested in Data Analytics and Backend Development
-- 🚀 I enjoy turning real-world problems into practical software solutions
+> **Hello! I'm Revati G Chavadal.**
+>
+> 🎓 AI/ML student from India who enjoys building practical software and exploring intelligent systems.
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nodejs,express,fastapi,docker,mongodb,mysql,aws,git,github" />
-</p>
-
-<p align="center">
-  <b>Machine Learning</b> • <b>Scikit-learn</b> • <b>Pandas</b> • <b>NumPy</b> • <b>SQL</b> • <b>REST APIs</b>
-</p>
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python development
+- ⚡ FastAPI & REST APIs
+- 🌐 React & backend development
+- 📊 Data Analytics
+- ☁️ Docker & Cloud
 
 ---
 
-## 📊 GitHub Analytics
+## ⚔️ My Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nodejs,express,fastapi,docker,mongodb,mysql,aws,git,github&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+</p>
+
+---
+
+## 🧠 GitHub Character Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" />
@@ -46,7 +53,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Daily Training — Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true" />
@@ -54,7 +61,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🌌 Activity Timeline
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true" width="95%" />
@@ -62,24 +69,26 @@
 
 ---
 
-## 🧊 3D Contribution Profile
+## 🧊 3D Contribution World
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="95%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="95%" />
 </p>
 
 ---
 
-## 💻 What I Work With
+## 🛰️ Current Mission
 
 ```text
-AI / ML       → Machine Learning · Scikit-learn · Pandas · NumPy
-Languages     → Python · C · Java · JavaScript · SQL
-Backend       → FastAPI · REST APIs · Node.js · Express
-Frontend      → React · HTML · CSS
-Databases     → MySQL · MongoDB
-Tools         → Git · GitHub · Docker
-Cloud         → AWS
+MISSION STATUS
+────────────────────────────────────────
+[✓] Learn advanced Machine Learning
+[✓] Build AI-powered applications
+[✓] Explore FastAPI and backend systems
+[→] Improve React + Cloud skills
+[→] Build more real-world AI projects
+────────────────────────────────────────
+STATUS: ONLINE • LEARNING • BUILDING
 ```
 
 ---
@@ -91,16 +100,14 @@ Cloud         → AWS
     <img src="https://img.shields.io/badge/GitHub-Revatigc-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:revatigc12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-revatigc12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <div align="center">
 
-### ✨ Build • Learn • Improve • Create ✨
+### 🌙 Thanks for visiting my little corner of GitHub!
 
-⭐ Thanks for visiting my profile!
+**✨ Build • Learn • Improve • Create ✨**
 
 </div>
