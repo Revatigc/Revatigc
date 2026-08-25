@@ -63,20 +63,6 @@
 
 ---
 
-## 🔥 04 — Training Arc
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true&v=20260825" width="70%" alt="Live GitHub contribution streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true&v=20260825" width="96%" alt="Live GitHub contribution activity graph" />
-
-</div>
-
----
-
 ## 🎬 05 — Profile Assembly
 
 <div align="center">
