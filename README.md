@@ -19,10 +19,6 @@
 
 ## 🌸 01 — A Little About Me
 
-<div align="center">
-<img src="./assets/about-scene.svg" alt="Revati animated About Me scene" width="96%" />
-</div>
-
 > **Hello! I'm Revati.** 👋  
 > An AI/ML student from India who enjoys turning ideas into practical technology.
 
@@ -32,22 +28,22 @@
 - 📊 Interested in **Data Analytics, backend engineering and cloud**
 - 🚀 Learning, experimenting and shipping projects
 
+`AI/ML`　`Python`　`Backend`　`Data`　`Cloud`　`Open Source`
+
 ---
 
 ## ⚔️ 02 — My Tech Arsenal
 
 <div align="center">
-<img src="./assets/tech-arsenal.svg" alt="Revati technology arsenal" width="96%" />
+
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nodejs,express,fastapi,docker,mongodb,mysql,aws,git,github&perline=8" alt="Technology stack" />
+
 </div>
 
-| Area | Technologies |
-|---|---|
-| 🧠 AI / ML | Machine Learning · Scikit-learn · Pandas · NumPy |
-| ⚡ Backend | FastAPI · REST APIs · Node.js · Express |
-| 📊 Data | SQL · MySQL · MongoDB · Data Analytics |
-| ☁️ Engineering | Docker · AWS · Git · GitHub |
-| 💻 Languages | Python · C · Java · JavaScript |
-| 🎨 Frontend | HTML · CSS · React |
+**AI / ML** · Machine Learning · Scikit-learn · Pandas · NumPy  
+**Backend** · FastAPI · REST APIs · Node.js · Express  
+**Data** · SQL · MySQL · MongoDB · Data Analytics  
+**Tools** · Git · GitHub · Docker · AWS
 
 ---
 
@@ -55,13 +51,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Revatigc">
-<img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/Revatigc">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="175" alt="GitHub statistics" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="175" alt="Top languages" />
 
 <br><br>
 
@@ -75,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Revatigc&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 
 <br><br>
 
@@ -88,7 +80,7 @@
 ## 🎬 05 — Profile Assembly
 
 <div align="center">
-<img src="./assets/profile-assembly.svg" alt="Sequential cinematic 3D-inspired Revati profile assembly" width="96%" />
+<img src="./assets/profile-assembly.svg" alt="Sequential cinematic profile assembly" width="96%" />
 </div>
 
 **INITIALIZING → PROFILE → SKILLS → GITHUB DATA → ACTIVITY → STREAK → 3D ASSETS → MERGE → PROFILE ASSEMBLED**
@@ -97,12 +89,8 @@
 
 ## 🌱 06 — Currently Learning
 
-<div align="center">
-<img src="./assets/learning-arc.svg" alt="Revati current learning animation" width="96%" />
-</div>
-
 | 🧠 AI / ML | ⚡ Engineering | ☁️ Modern Stack |
-|---|---|---|
+|:---:|:---:|:---:|
 | Advanced ML | FastAPI | Docker |
 | Model Building | REST APIs | Cloud |
 | Data Analytics | React | AWS |
@@ -157,7 +145,5 @@
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Revatigc&style=for-the-badge&color=7c3aed" alt="Profile views" />
-
 </div>
