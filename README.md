@@ -1,75 +1,47 @@
-<h1 align="center">Hi 👋, I'm Revati G Chavadal</h1>
+<div align="center">
 
-<h3 align="center">🤖 AI/ML Student | Python Developer | Building Real-World AI Solutions</h3>
+# 👋 Hi, I'm Revati G Chavadal
 
-<p align="center">
-  <a href="https://github.com/Revatigc">
-    <img src="https://img.shields.io/github/followers/Revatigc?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/Revatigc">
-    <img src="https://img.shields.io/github/stars/Revatigc?label=Stars&style=flat" />
-  </a>
-  <a href="mailto:revatigc12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat" />
-  </a>
-</p>
+### 🤖 AI/ML Student • Python Developer • Building Real-World AI Solutions
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Student+from+India;Python+%7C+Machine+Learning+%7C+FastAPI;Building+AI+for+Real-World+Problems;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 AI/ML student from India
-* 🤖 Interested in Artificial Intelligence and Machine Learning
-* 🐍 Building projects with Python
-* ⚡ Exploring FastAPI, React, Docker and Cloud
-* 📊 Interested in Data Analytics and Backend Development
-* 🚀 I enjoy turning real-world problems into practical software solutions
+- 🎓 AI/ML student from India
+- 🤖 Focused on Artificial Intelligence and Machine Learning
+- 🐍 Building projects with Python
+- ⚡ Learning FastAPI, React, Docker and Cloud
+- 📊 Interested in Data Analytics and Backend Development
+- 🚀 I enjoy turning real-world problems into practical software solutions
 
 ---
 
-## 🔭 What I'm Working On
-
-### 🌱 Smart Farming AI Platform
-
-An AI-powered platform focused on applying machine learning to agriculture.
-
-🔗 **Repository:**
-https://github.com/Revatigc/smart-farming-ai-platform
-
-### 🏦 Banking AI Fraud Detection
-
-A machine-learning project focused on detecting potentially fraudulent banking transactions.
-
-🔗 **Repository:**
-https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nodejs,express,fastapi,docker,mongodb,mysql,aws,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nodejs,express,fastapi,docker,mongodb,mysql,aws,git,github" />
 </p>
-
-### 🤖 AI / Data
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
+  <b>Machine Learning</b> • <b>Scikit-learn</b> • <b>Pandas</b> • <b>NumPy</b> • <b>SQL</b> • <b>REST APIs</b>
 </p>
-
-**Machine Learning · Scikit-learn · Pandas · NumPy · Data Analytics**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Revatigc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revatigc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revatigc&theme=tokyonight" width="95%" />
 </p>
 
 ---
@@ -77,7 +49,7 @@ https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Revatigc&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Revatigc&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,37 +57,29 @@ https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=minimal&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revatigc&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧊 3D Contribution Profile
 
 <p align="center">
-
-<a href="https://github.com/Revatigc/smart-farming-ai-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=smart-farming-ai-platform&theme=default" />
-</a>
-
-<a href="https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=-Banking-AI-automatic-fraud-detection-&theme=default" />
-</a>
-
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="95%" />
 </p>
 
 ---
 
-## 💻 What I Know
+## 💻 What I Work With
 
 ```text
-Languages        → Python · C · Java · JavaScript · SQL
-AI / ML          → Machine Learning · Scikit-learn · Pandas
-Backend          → FastAPI · REST APIs · Node.js · Express
-Frontend         → React · HTML · CSS
-Databases        → MySQL · MongoDB
-Tools             → Git · GitHub · Docker
-Cloud             → AWS
+AI / ML       → Machine Learning · Scikit-learn · Pandas · NumPy
+Languages     → Python · C · Java · JavaScript · SQL
+Backend       → FastAPI · REST APIs · Node.js · Express
+Frontend      → React · HTML · CSS
+Databases     → MySQL · MongoDB
+Tools         → Git · GitHub · Docker
+Cloud         → AWS
 ```
 
 ---
@@ -123,23 +87,20 @@ Cloud             → AWS
 ## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Revatigc">
-  <img src="https://img.shields.io/badge/GitHub-Revatigc-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:revatigc12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-revatigc12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://github.com/Revatigc">
+    <img src="https://img.shields.io/badge/GitHub-Revatigc-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:revatigc12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-revatigc12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <b>✨ Building • Learning • Improving • Creating ✨</b>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+### ✨ Build • Learn • Improve • Create ✨
+
+⭐ Thanks for visiting my profile!
+
+</div>
