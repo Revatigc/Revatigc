@@ -21,8 +21,6 @@
 - 📊 Interested in **Data Analytics & Backend Engineering**
 - 🚀 Always experimenting, learning and shipping something new
 
-<br>
-
 <div align="center">
 
 `AI/ML`　`Python`　`Backend`　`Data`　`Cloud`　`Open Source`
@@ -78,15 +76,17 @@
 
 ---
 
-## 🧊 05 — 3D Contribution World
+## 🎬 05 — Profile Assembly
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph" width="96%" />
+<img src="./assets/profile-assembly.svg" alt="Sleek 3D animated profile assembly" width="96%" />
+
+<br>
+
+**INITIALIZING → SKILLS DETECTED → DATA SYNCING → PROFILE ASSEMBLED**
 
 </div>
-
-<p align="center"><i>Every square is a small step. Every commit is part of the journey. ✨</i></p>
 
 ---
 
@@ -104,7 +104,7 @@
 
 ---
 
-## 🌌 07 — My Developer Philosophy
+## 🌌 07 — Developer Philosophy
 
 <div align="center">
 
