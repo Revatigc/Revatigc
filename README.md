@@ -66,10 +66,10 @@
 ## 🎬 05 — Profile Assembly
 
 <div align="center">
-<img src="./assets/profile-assembly.svg" alt="Sequential cinematic profile assembly" width="96%" />
+<img src="./assets/profile-assembly.svg" alt="Futuristic profile assembly showing identity, skills, GitHub, activity and the finished developer profile" width="96%" />
 </div>
 
-**INITIALIZING → PROFILE → SKILLS → GITHUB DATA → ACTIVITY → STREAK → 3D ASSETS → MERGE → PROFILE ASSEMBLED**
+**IDENTITY → SKILLS → GITHUB → ACTIVITY → PROFILE ASSEMBLED**
 
 ---
 
