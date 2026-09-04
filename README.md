@@ -63,7 +63,7 @@
 
 ---
 
-## 🎬 05 — Profile Assembly
+## 🎬 04 — Profile Assembly
 
 <div align="center">
 <img src="./assets/profile-assembly.svg" alt="Futuristic profile assembly showing identity, skills, GitHub, activity and the finished developer profile" width="96%" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 🌱 06 — Currently Learning
+## 🌱 05 — Currently Learning
 
 | 🧠 AI / ML | ⚡ Engineering | ☁️ Modern Stack |
 |:---:|:---:|:---:|
@@ -83,7 +83,7 @@
 
 ---
 
-## 🌌 07 — Developer Philosophy
+## 🌌 06 — Developer Philosophy
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 📫 08 — Let's Connect
+## 📫 07 — Let's Connect
 
 <div align="center">
 
