@@ -83,22 +83,6 @@
 
 ---
 
-## 🚀 07 — Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Revatigc/smart-farming-ai-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=smart-farming-ai-platform&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260825" alt="Smart Farming AI Platform" />
-</a>
-
-<a href="https://github.com/Revatigc/-Banking-AI-automatic-fraud-detection-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Revatigc&repo=-Banking-AI-automatic-fraud-detection-&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260825" alt="Banking AI Fraud Detection" />
-</a>
-
-</div>
-
----
-
 ## 🌌 08 — Developer Philosophy
 
 <div align="center">
