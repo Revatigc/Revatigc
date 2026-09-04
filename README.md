@@ -83,7 +83,7 @@
 
 ---
 
-## 🌌 08 — Developer Philosophy
+## 🌌 07 — Developer Philosophy
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 📫 09 — Let's Connect
+## 📫 08 — Let's Connect
 
 <div align="center">
 
