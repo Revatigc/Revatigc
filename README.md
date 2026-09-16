@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Revatigc's GitHub profile" src="dark_mode.svg" />
+</picture> 
 <div align="center">
 
 <img src="./assets/anime-banner.svg" alt="Revati G Chavadal — anime inspired AI/ML developer profile" width="100%" />
